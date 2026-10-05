@@ -23,4 +23,4 @@ strict-origin-when-cross-origin
 1ページ開いたときの往復の数（およそ）: 45 回
 curl -I の1行目: HTTP/2 200
 無いページの1行目: HTTP/2 404
-API の full_name: yanagida517/reskilling-practice  pushed_at: 2026-10-02T08:36:39Z
+API の full_name: yanagida517/reskilling-practice  pushed_at: 2026-10-05T02:23:47Z
