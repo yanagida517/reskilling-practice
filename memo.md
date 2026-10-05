@@ -24,3 +24,9 @@ strict-origin-when-cross-origin
 curl -I の1行目: HTTP/2 200
 無いページの1行目: HTTP/2 404
 API の full_name: yanagida517/reskilling-practice  pushed_at: 2026-10-05T02:23:47Z
+
+
+
+/api/chat が受け取るもの:message と session_id
+/api/chat が返すもの:reply と実測値
+第5回で差し替える場所: chat 関数の中の reply = ... の行
